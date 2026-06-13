@@ -1,0 +1,1 @@
+C:\Python\Python313\python.exe init_db.py
